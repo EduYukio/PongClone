@@ -1,2 +1,2 @@
-# Pongtato
-Just a Pong clone
+# PongClone
+Pong clone made in Unity/C#
